@@ -1,7 +1,7 @@
 # Log_file_rotation
 Main script - logrotate.sh
 
-Arguments/Postional parameters:
+Arguments/Positional parameters:
 1) "time" or "size"
 2)  Log file name
 
