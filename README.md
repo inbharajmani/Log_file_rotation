@@ -1,4 +1,4 @@
-# Log_file_rotation
+# Log file rotation using bash script
 Main script - logrotate.sh
 
 It needs the below Arguments/Positional parameters:
